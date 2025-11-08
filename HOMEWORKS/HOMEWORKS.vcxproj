@@ -137,6 +137,9 @@
     <ClInclude Include="Passport.h" />
     <ClInclude Include="Student.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitgnore" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
